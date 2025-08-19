@@ -1,0 +1,19 @@
+# Site settings
+title: guiltygyoza
+description:
+author: guiltygyoza
+email:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://guiltygyoza.xyz" # the base hostname & protocol for your site
+twitter_username: guiltygyoza
+github_username:  guiltygyoza
+plugins:
+  - jekyll-feed
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
