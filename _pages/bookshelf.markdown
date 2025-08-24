@@ -23,6 +23,7 @@ permalink: /bookshelf/
 - [*Breaking Through*](https://www.goodreads.com/book/show/123025953-breaking-through){:target="_blank"}: My Life in Science - Katalin Karikó.
 - [*The Five Temptations of a CEO*](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO){:target="_blank"}: A Leadership Fable - Patrick Lencioni.
 - [*Silos, Politics and Turf Wars*](https://www.goodreads.com/en/book/show/19129.Silos_Politics_and_Turf_Wars){:target="_blank"}: A Leadership Fable About Destroying the Barriers That Turn Colleagues Into Competitors - Patrick Lencioni.
+- [*The Six Pillars of Self-Esteem*](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem){:target="_blank"} - Nathaniel Branden.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
