@@ -25,6 +25,7 @@ permalink: /bookshelf/
 - [*Silos, Politics and Turf Wars*](https://www.goodreads.com/en/book/show/19129.Silos_Politics_and_Turf_Wars){:target="_blank"}: A Leadership Fable About Destroying the Barriers That Turn Colleagues Into Competitors - Patrick Lencioni.
 - [*The Six Pillars of Self-Esteem*](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem){:target="_blank"} - Nathaniel Branden. *A very clean formulation*.
 - [*The Strangest Man*](https://www.goodreads.com/book/show/6629359-the-strangest-man){:target="_blank"}: The Hidden Life of Paul Dirac, Mystic of the Atom - Graham Farmelo. *The greatest read I've had in a long while.*
+- [*Thinking In Systems*](https://www.goodreads.com/book/show/3828902-thinking-in-systems){:target="_blank"}: A Primer - Donella Meadows.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
