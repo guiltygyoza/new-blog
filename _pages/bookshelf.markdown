@@ -18,14 +18,14 @@ permalink: /bookshelf/
 - *[How Big Things Get Done](https://www.goodreads.com/book/show/61327449-how-big-things-get-done){:target="_blank"}: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everything In Between* - Bent Flyvbjerg & Dan Gardner.
 - *[The Future of Humanity](https://www.goodreads.com/book/show/36407347-the-future-of-humanity){:target="_blank"}: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth* - Michio Kaku.
 - *[Star Warriors](https://www.goodreads.com/book/show/1007849.Star_Warriors){:target="_blank"}: A Penetrating Look into the Lives of the Young Scientists Behind Our Space Age Weaponry* - William Broad.
-- [*What Life Could Mean to You*](https://www.goodreads.com/book/show/6997679){:target="_blank"} - Alfred Adler. *Timeless.*
-- [*The Five Dysfunctions of a Team*](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team){:target="_blank"} - Patrick Lencioni.
-- [*Breaking Through*](https://www.goodreads.com/book/show/123025953-breaking-through){:target="_blank"}: My Life in Science - Katalin Karikó.
-- [*The Five Temptations of a CEO*](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO){:target="_blank"}: A Leadership Fable - Patrick Lencioni.
-- [*Silos, Politics and Turf Wars*](https://www.goodreads.com/en/book/show/19129.Silos_Politics_and_Turf_Wars){:target="_blank"}: A Leadership Fable About Destroying the Barriers That Turn Colleagues Into Competitors - Patrick Lencioni.
-- [*The Six Pillars of Self-Esteem*](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem){:target="_blank"} - Nathaniel Branden. *A very clean formulation*.
-- [*The Strangest Man*](https://www.goodreads.com/book/show/6629359-the-strangest-man){:target="_blank"}: The Hidden Life of Paul Dirac, Mystic of the Atom - Graham Farmelo. *The greatest read I've had in a long while.*
-- [*Thinking In Systems*](https://www.goodreads.com/book/show/3828902-thinking-in-systems){:target="_blank"}: A Primer - Donella Meadows.
+- *[What Life Could Mean to You](https://www.goodreads.com/book/show/6997679){:target="_blank"}* - Alfred Adler. *Timeless.*
+- *[The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team){:target="_blank"}* - Patrick Lencioni.
+- *[Breaking Through](https://www.goodreads.com/book/show/123025953-breaking-through){:target="_blank"}: My Life in Science* - Katalin Karikó.
+- *[The Five Temptations of a CEO](https://www.goodreads.com/book/show/49146.The_Five_Temptations_of_a_CEO){:target="_blank"}: A Leadership Fable* - Patrick Lencioni.
+- *[Silos, Politics and Turf Wars](https://www.goodreads.com/en/book/show/19129.Silos_Politics_and_Turf_Wars){:target="_blank"}: A Leadership Fable About Destroying the Barriers That Turn Colleagues Into Competitors* - Patrick Lencioni.
+- *[The Six Pillars of Self-Esteem](https://www.goodreads.com/book/show/79352.Six_Pillars_of_Self_Esteem){:target="_blank"}* - Nathaniel Branden. *A very clean formulation*.
+- *[The Strangest Man](https://www.goodreads.com/book/show/6629359-the-strangest-man){:target="_blank"}: The Hidden Life of Paul Dirac, Mystic of the Atom* - Graham Farmelo. *The greatest read I've had in a long while.*
+- *[Thinking In Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems){:target="_blank"}: A Primer* - Donella Meadows.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
