@@ -27,6 +27,7 @@ permalink: /bookshelf/
 - *[The Strangest Man](https://www.goodreads.com/book/show/6629359-the-strangest-man){:target="_blank"}: The Hidden Life of Paul Dirac, Mystic of the Atom* - Graham Farmelo. *The greatest read I've had in a long while.*
 - *[Thinking In Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems){:target="_blank"}: A Primer* - Donella Meadows. *Familiar concepts from the signals & systems course in college, nevertheless a revelation when applied to personal routines and inducing my interest in the topic of resilience.*
 - *[The Fixer](https://www.goodreads.com/book/show/38649807-the-fixer){:target="_blank"}: My Adventures Saving Startups from Death by Politics* - Bradley Tusk. *Helpful for founders combating entrenched interests.*
+- *[《沒有一條道路是重複的》](https://www.eslite.com/product/1001116171290769){:target="_blank"}* - 余華。
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
