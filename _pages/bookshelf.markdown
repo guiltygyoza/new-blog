@@ -29,6 +29,7 @@ permalink: /bookshelf/
 - *[The Fixer](https://www.goodreads.com/book/show/38649807-the-fixer){:target="_blank"}: My Adventures Saving Startups from Death by Politics* - Bradley Tusk. *Helpful for founders combating entrenched interests.*
 - *[《沒有一條道路是重複的》](https://www.eslite.com/product/1001116171290769){:target="_blank"}* - 余華。
 - *[The Ant Mill](https://www.goodreads.com/book/show/237003337-the-ant-mill){:target="_blank"}: How theoretical high-energy physics descended into groupthink, tribalism, and mass-production of research* - Jesper Møller Grimstrup. *"Scientific progress is measured in units of courage, not intelligence" - Dirac.*
+- *[The Structure of Scientific Revolutions](https://www.goodreads.com/en/book/show/61539.The_Structure_of_Scientific_Revolutions){:target="_blank"}* - Thomas Kuhn.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
