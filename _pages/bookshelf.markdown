@@ -33,6 +33,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[The Ant Mill](https://www.goodreads.com/book/show/237003337-the-ant-mill){:target="_blank"}: How theoretical high-energy physics descended into groupthink, tribalism, and mass-production of research* - Jesper Møller Grimstrup. *"Scientific progress is measured in units of courage, not intelligence" - Dirac.*
 - *[The Structure of Scientific Revolutions](https://www.goodreads.com/en/book/show/61539.The_Structure_of_Scientific_Revolutions){:target="_blank"}* - Thomas Kuhn.
 - *[When I Say No, I Feel Guilty](https://www.goodreads.com/book/show/1098624.When_I_Say_No_I_Feel_Guilty){:target="_blank"}: How to Cope - Using the Skills of Systematic Assertive Therapy* - Manuel Smith. *Wanting something is part of the internal reality. There is no right and wrong when it comes to individual realities.*
+- *[Leadership and Self-Deception](https://www.goodreads.com/book/show/180463.Leadership_and_Self_Deception){:target="_blank"}: Getting Out of the Box* - The Arbinger Institute. *"One way, I experience myself as a person among people. The other way, I experience myself as the person among objects. One way, I'm out of the box; the other way, I'm in the box."*
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
