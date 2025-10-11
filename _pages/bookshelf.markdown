@@ -35,6 +35,8 @@ These books brought notable influences on my thinking in the recent years.
 - *[When I Say No, I Feel Guilty](https://www.goodreads.com/book/show/1098624.When_I_Say_No_I_Feel_Guilty){:target="_blank"}: How to Cope - Using the Skills of Systematic Assertive Therapy* - Manuel Smith. *Wanting something is part of the internal reality. There is no right and wrong when it comes to individual realities.*
 - *[Leadership and Self-Deception](https://www.goodreads.com/book/show/180463.Leadership_and_Self_Deception){:target="_blank"}: Getting Out of the Box* - The Arbinger Institute. *"One way, I experience myself as a person among people. The other way, I experience myself as the person among objects. One way, I'm out of the box; the other way, I'm in the box."*
 - *[Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets){:target="_blank"}: Making Smarter Decisions When You Don't Have All the Facts* - Annie Duke. *Getting comfortable with "I'm not sure" is a vital step to becoming a better decision-maker.*
+- *[Maverick Genius](https://www.goodreads.com/book/show/15793070-maverick-genius){:target="_blank"}: The Pioneering Odyssey of Freeman Dyson* - Phillip Schewe. "*there is under our noses the territory of nine planets, forty moons, ten thousand asteroids, and a trillion comets.*"
+- *[Search for Artificial Stellar Sources of Infrared Radiation](https://epizodsspace.airbase.ru/bibl/inostr-yazyki/science/1960/Dyson_Search_for_Artificial_Stellar_Sources_of_Infrared_Radiation_Science_131_(1960).pdf){:target="_blank"}* - Freeman Dyson.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
