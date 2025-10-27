@@ -40,6 +40,8 @@ These books brought notable influences on my thinking in the recent years.
 - *[The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning){:target="_blank"}: A Journey in the Pursuit of Excellence* - Josh Waitzkin. *It is amazing how much growth can come from persistently putting one's mind to bottlenecks and simply refusing to back down.*
 - *[Shell Beach](https://www.goodreads.com/book/show/56667254-shell-beach){:target="_blank"}: The search for the final theory* - Jesper Møller Grimstrup. *"...if we do discover a complete theory, it should in time be understandable in broad principle by everyone, not just a few scientists. Then we shall all, philosophers, scientists, and just ordinary people, be able to take part in the discussion of the question of why it is that we and the universe exist. If we find the answer to that, it would be the ultimate triumph of human reason -- for then we would know the mind of God. (Steven Hawking)"*
 - *[The Coaching Habit](https://www.goodreads.com/book/show/29342515-the-coaching-habit){:target="_blank"}: Say Less, Ask More & Change the Way You Lead Forever* - Michael Bungay Stanier. *The Karpman drama triangle is a potent mental model.*
+- *[Getting to Yes](https://www.goodreads.com/book/show/313605.Getting_to_Yes){:target="_blank"}: Negotiating Agreement Without Giving In* - Roger Fisher and William Ury. *There are many sources of negotiation power: BATNA, relationship, interests, options, objective standards.*
+
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
