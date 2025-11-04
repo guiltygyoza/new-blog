@@ -42,6 +42,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[The Coaching Habit](https://www.goodreads.com/book/show/29342515-the-coaching-habit){:target="_blank"}: Say Less, Ask More & Change the Way You Lead Forever* - Michael Bungay Stanier. *The Karpman drama triangle is a potent mental model.*
 - *[Getting to Yes](https://www.goodreads.com/book/show/313605.Getting_to_Yes){:target="_blank"}: Negotiating Agreement Without Giving In* - Roger Fisher and William Ury. *There are many sources of negotiation power: BATNA, relationship, interests, options, objective standards.*
 - *[The Thinking Machine](https://www.goodreads.com/book/show/211399783-the-thinking-machine){:target="_blank"}: Jensen Huang, Nvidia, and the World's Most Coveted Microchip* - Stephen Witt. *“Musk moves backward from fantasy; Huang moves forward from reality.*
+- *[Nonviolent Communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication){:target="_blank"}: A Language of Life* - Marshall B. Rosenberg. *Deeply illuminating.*
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
