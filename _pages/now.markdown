@@ -9,7 +9,7 @@ permalink: /now/
 {: refdef}
 
 ### Last updated
-Oct. 2025 in Taipei, Taiwan
+Nov. 2025 in Taipei, Taiwan
 
 ### Current focus
 Exploration.

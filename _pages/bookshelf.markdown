@@ -43,6 +43,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Getting to Yes](https://www.goodreads.com/book/show/313605.Getting_to_Yes){:target="_blank"}: Negotiating Agreement Without Giving In* - Roger Fisher and William Ury. *There are many sources of negotiation power: BATNA, relationship, interests, options, objective standards.*
 - *[The Thinking Machine](https://www.goodreads.com/book/show/211399783-the-thinking-machine){:target="_blank"}: Jensen Huang, Nvidia, and the World's Most Coveted Microchip* - Stephen Witt. *“Musk moves backward from fantasy; Huang moves forward from reality.*
 - *[Nonviolent Communication](https://www.goodreads.com/book/show/71730.Nonviolent_Communication){:target="_blank"}: A Language of Life* - Marshall B. Rosenberg. *Deeply illuminating.*
+- *[The Surprising Purpose of Anger](https://www.goodreads.com/book/show/71738.The_Surprising_Purpose_of_Anger){:target="_blank"}* - Marshall B. Rosenberg. *The etymology of the word "emotion" is to move us out - to mobilize us to meet our needs. Anger is the distorted cry for empathy.*
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
