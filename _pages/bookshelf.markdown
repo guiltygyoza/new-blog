@@ -46,6 +46,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[The Surprising Purpose of Anger](https://www.goodreads.com/book/show/71738.The_Surprising_Purpose_of_Anger){:target="_blank"}* - Marshall B. Rosenberg. *The etymology of the word "emotion" is to move us out - to mobilize us to meet our needs. Anger is the distorted cry for empathy.*
 - *[Trillion Dollar Coach](https://www.goodreads.com/book/show/36501797-trillion-dollar-coach){:target="_blank"}: The Leadership Playbook of Silicon Valley's Bill Campbell* - Eric Schmidt, Jonathan Rosenberg, Alan Eagle. *A north star.*
 - *[Quantum Computing for Everyone](https://www.goodreads.com/book/show/40994088-quantum-computing-for-everyone){:target="_blank"}* - Chris Bernhardt.
+- *[Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/37953277){:target="_blank"}* - David J. Griffiths and Darrell F. Schroeter.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
