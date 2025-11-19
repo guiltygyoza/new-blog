@@ -227,9 +227,9 @@ I think one big factor in their survivability function is that Extropic must con
 
 I think they need these two factors to work:
 
-```
-(1) TAM of EBM paradigm x (2) Extropic’s share of chips that are great for EBM
-```
+$$
+\text{(1) TAM of EBM paradigm} \times \text{(2) Extropic’s share of EBM compute}
+$$
 
 If (1) is small, there’s no win. If (1) is large but GPU gets really good for EBMs such that (2) is small, there’s still no win. Win in the sense of a 100x bagger as a venture-backed startup.
 
