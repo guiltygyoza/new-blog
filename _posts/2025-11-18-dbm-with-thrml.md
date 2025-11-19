@@ -66,7 +66,7 @@ Here we have a fork in the road: MLP models or probabilistic models.
 
 MLP (multilayer perceptron) typically defines a model where the input passes through a series of layer, each performing a matrix-multiply on its input, followed by a nonlinear activation. We call the output coming out of the final layer as logits. Invert the sign of logits and we get $E_{\theta}(X)$.
 
-A probabilistic model typically consist of one visible layer and one or multiple hidden layers, each containing a number of nodes. Nodes across different layers are connected by the model parameters. Here’s the key difference from MLP: these nodes are random variables; they don’t relate deterministically to each other by matrix-multiply with $\theta$, instead their probability distributions conditioned on each other are defined over $\theta$. For example: denote the visible layer nodes as $\mathbf{v}$, a hidden layer connected to it as $\mathbf{h}$, and use only spin nodes e.g. every node’s range is $\{0,1\}$. Then we might write:
+A probabilistic model typically consist of one visible layer and one or multiple hidden layers, each containing a number of nodes. Nodes across different layers are connected by the model parameters. Here’s the key difference from MLP: these nodes are random variables; they don’t relate deterministically to each other by matrix-multiply with $\theta$, instead their probability distributions conditioned on each other are defined over $\theta$. For example: denote the visible layer nodes as $\mathbf{v}$, a hidden layer connected to it as $\mathbf{h}$, and use only spin nodes e.g. every node’s range is $\[0,1\]$. Then we might write:
 
 $$
 P(\mathbf{v_i}=1 \,|\, \mathbf{h}) = \sigma \left( b_i + \sum_{<i,j>}W_{i,j}\mathbf{h}_j \right)
