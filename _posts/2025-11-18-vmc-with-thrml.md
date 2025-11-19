@@ -64,7 +64,7 @@ If we solve this equation for the lowest possible $E$, we will find it to be $-1
 
 It turns out we cannot analytically solve the Schrödinger equation for systems even only slightly more complex than hydrogen. We need numerical methods to approximate the solution. VMC is one such method., at least dating back to the [McMillan 1965 paper](https://journals.aps.org/pr/abstract/10.1103/PhysRev.138.A442){:target="_blank"}.
 
-The general idea of VMC is as follows. Create a mathematical machine parametrized by $\theta$. This machine takes a system state $X$ and returns its unnormalized wavefunction $\psi_{\theta}(X)$. Define two terms: local energy $E_{loc}(X)$ (the system energy at state $X$) and the expected value of energy $\langle E \rangle$:
+The general idea of VMC is as follows. Create a mathematical machine parametrized by $\theta$. This machine takes a system state $X$ and returns its unnormalized wavefunction $\psi_{\theta}(X)$. Then, define two terms: local energy $E_{loc}(X)$ (the system energy at state $X$) and the expected value of energy $\langle E \rangle$:
 
 $$
 E_{\mathrm{loc}}(X) = \frac{(\hat{H}\psi_\theta(X))}{\psi_\theta(X)}
