@@ -211,7 +211,7 @@ At convergence, our model prediction is within 0.5% from the analytical solution
 
 ## Thoughts on Extropic’s strategy and the survivability function
 
-First I want to credit [this blog](https://www.zach.be/p/so-i-have-to-talk-about-extropic){:target="_blank"} by [Zach](https://x.com/blip_tm/status/1985809305728139348?s=20){:target="_blank"}, from which I learned about the universe of works on pbits and Ising machines.
+First I want to credit [this blog](https://www.zach.be/p/so-i-have-to-talk-about-extropic){:target="_blank"} by [Zach](https://x.com/blip_tm/status/1985809305728139348?s=20){:target="_blank"}, from which I learned about the universe of works on pbits and Ising machines. I want to cut Extropic some slack about engineering novelty, as I believe success here depends more on timing (luck), execution, and steermanship.
 
 As I gain clarity on the procedure of sampling EBMs, I begin to consider the architecture of Extropic’s chip and their PR strategy. I have a few thoughts:
 
