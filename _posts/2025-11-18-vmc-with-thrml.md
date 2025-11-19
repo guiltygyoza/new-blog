@@ -148,9 +148,9 @@ We are now two steps away from being ready to train an RBM with VMC for this pro
 
 ### Find $|\psi(S)|$
 
-We denote the state as $S = \{s_i \in \{-1, +1\},\,i\in 1...N\}$, meaning we have $N$ particles in total, the spin state of each takes either -1 (down) or +1 (up).
+We denote the state as $$S = \{s_i \in \{-1, +1\},\,i\in 1...N\}$$, meaning we have $N$ particles in total, the spin state of each takes either -1 (down) or +1 (up).
 
-We define a RBM model with exactly $N$ spin-nodes in the visible layer, one for each particle in the problem, and $M$ spin-nodes in the hidden layer. The state of the hidden layer is denoted as $H = \{h_i \in \{-1, +1\},\,i\in 1...M\}$
+We define a RBM model with exactly $N$ spin-nodes in the visible layer, one for each particle in the problem, and $M$ spin-nodes in the hidden layer. The state of the hidden layer is denoted as $$H = \{h_i \in \{-1, +1\},\,i\in 1...M\}$$
 
 The RBM’s energy is then:
 
