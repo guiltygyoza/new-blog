@@ -47,6 +47,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Trillion Dollar Coach](https://www.goodreads.com/book/show/36501797-trillion-dollar-coach){:target="_blank"}: The Leadership Playbook of Silicon Valley's Bill Campbell* - Eric Schmidt, Jonathan Rosenberg, Alan Eagle. *A north star.*
 - *[Quantum Computing for Everyone](https://www.goodreads.com/book/show/40994088-quantum-computing-for-everyone){:target="_blank"}* - Chris Bernhardt.
 - *[Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/37953277){:target="_blank"}* - David J. Griffiths and Darrell F. Schroeter.
+- *[High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management){:target="_blank"}* - Andrew S. Grove. *Awakened & enlightened. I did not have the right mental condition to give this book a serious read and I wish I could have.*
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
