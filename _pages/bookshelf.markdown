@@ -8,7 +8,6 @@ These books brought notable influences on my thinking in the recent years.
 
 ### Non-fiction
 - *[The Tragic Mind](https://www.goodreads.com/book/show/60747416-the-tragic-mind){:target="_blank"}: Fear, Fate, and the Burden of Power* - Robert Kaplan.
-- *[Debt](https://www.goodreads.com/book/show/6617037-debt){:target="_blank"}: The First 5000 Years* - David Graeber.
 - *[The Technological Republic](https://www.goodreads.com/book/show/213618136-the-technological-republic){:target="_blank"}: Hard Power, Soft Belief, and the Future of the West* - Alex Karp.
 - *[The Crowd](https://www.goodreads.com/book/show/573045.The_Crowd){:target="_blank"}: A Study of the Popular Mind* - Gustave Le Bon.
 - *[Pieces of the Action](https://www.goodreads.com/book/show/14290284-pieces-of-the-action){:target="_blank"}* - Vannevar Bush.
