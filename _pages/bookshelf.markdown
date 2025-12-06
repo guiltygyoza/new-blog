@@ -48,6 +48,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/37953277){:target="_blank"}* - David J. Griffiths and Darrell F. Schroeter.
 - *[High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management){:target="_blank"}* - Andrew S. Grove. *Awakened & enlightened. I did not have the right mental condition to give this book a serious read and I wish I could have.*
 - *[Measure What Matters](https://www.goodreads.com/book/show/39286958-measure-what-matters){:target="_blank"}* - John Doerr.
+- *[Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations){:target="_blank"}: Tools for Talking When Stakes are High* - Kerry Patterson.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
