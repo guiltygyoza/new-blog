@@ -50,6 +50,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Measure What Matters](https://www.goodreads.com/book/show/39286958-measure-what-matters){:target="_blank"}* - John Doerr.
 - *[Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations){:target="_blank"}: Tools for Talking When Stakes are High* - Kerry Patterson.
 - *[Quantum Computing](https://www.goodreads.com/book/show/55668470-quantum-computing-wired-guides){:target="_blank"} (WIRED guides): How It Works and How It Could Change the World* - Amit Katwala, Wired.
+- *[The Most Important Thing](https://www.goodreads.com/book/show/10454418-the-most-important-thing){:target="_blank"}: Uncommon Sense for the Thoughtful Investor* - Howard Marks.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
