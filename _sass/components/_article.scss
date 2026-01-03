@@ -79,6 +79,15 @@
         margin-left: 2.1rem;
     }
 
+    // Inline code styling (Notion-style)
+    code:not(pre code) {
+        background-color: #F7F6F3;
+        border-radius: 3px;
+        padding: 0.2em 0.4em;
+        font-size: 0.9em;
+        color: #EB5757;
+    }
+
 }
 
 .c-article__footer {
