@@ -52,6 +52,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Quantum Computing](https://www.goodreads.com/book/show/55668470-quantum-computing-wired-guides){:target="_blank"} (WIRED guides): How It Works and How It Could Change the World* - Amit Katwala, Wired.
 - *[The Most Important Thing](https://www.goodreads.com/book/show/10454418-the-most-important-thing){:target="_blank"}: Uncommon Sense for the Thoughtful Investor* - Howard Marks.
 - *[The Effective Executive](https://www.goodreads.com/en/book/show/48019.The_Effective_Executive){:target="_blank"}: The Definitive Guide to Getting the Right Things Done* - Peter Drucker.
+- *[Death by Meeting](https://www.goodreads.com/book/show/49040.Death_by_Meeting){:target="_blank"}* - Patrick Lencioni.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
