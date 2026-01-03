@@ -6,7 +6,7 @@ categories: idea
 published: true
 ---
 
-Special thanks to Justin Hou and Allen Chiu for inspirations.
+Special thanks to Ko-Wei Tseng, Justin Hou and Allen Chiu for inspirations.
 
 ## Motivation
 
