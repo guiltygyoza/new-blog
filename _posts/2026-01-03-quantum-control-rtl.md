@@ -19,7 +19,7 @@ This is how FPGA comes into play. Wanting to get hands-on, and curious about whe
 1. A simple TX controller for JESD204B.
 2. A simple pulse generator for DRAG and Wah-Wah.
 
-## Open source RTL tools
+## Open source EDA tools
 
 Previously at school and at work, I was used to [VCS](https://www.synopsys.com/verification/simulation/vcs.html){:target="_blank"} and [ModelSim](https://en.wikipedia.org/wiki/ModelSim){:target="_blank"}. For these exercises, I use open source tools:
 
@@ -120,7 +120,7 @@ DRAG pulse is designed to suppress internal leakage: the target qubit state drif
 
 The DRAG (*Derivative Removal by Adiabatic Gate*) technique was proposed by Motzoi et. al. in 2009 in this [paper](https://arxiv.org/pdf/0901.0534){:target="_blank"}. Limiting to a three-level system $$\{\ket{0}, \ket{1}, \ket{2}\}$$, and denoting the in-phase and quadrature components as $$I(t)$$ and $$Q(t)$$ respectively, they found that setting $$Q(t) \propto \frac{dI(t)}{dt}$$ can suppress leakage to $$\ket{2}$$ to the first order of the pulse amplitude. Higher-order leakage suppression is possible but we limit this exercise to first-order DRAG.
 
-Using Gaussian as $$I(t)$$, we have:
+In discrete time, using Gaussian for $$I[n]$$, we have:
 
 $$
 I[n] = A \cdot G[n]
@@ -155,9 +155,9 @@ The Wah-Wah (*Weak AnHarmonicity With Average Hamiltonian*) technique was propos
 
 <img src="/assets/2026-01-04/rtl-pulse-wah-wah.png" style="display:block;margin:0 auto;width:60%;"/>
 
-They found that by modulating the original $$I(t)$$ (e.g. a Gaussian envelope) with a $$[1 - A_m \cos{\omega_m (n-\mu)}]$$ term, $$\mu$$ being the same as that used in the Gaussian term, and $$Q(t)$$ follows the DRAG technique, external leakage can be suppressed.
+They found that by modulating the original $$I(t)$$ (e.g. a Gaussian envelope) with a $$[1 - A_m \cos{\omega_m (t-\mu)}]$$ term, $$\mu$$ being the same as that used in the Gaussian term, and $$Q(t)$$ follows the DRAG technique, external leakage can be suppressed.
 
-So we have:
+So we have in discrete time:
 
 $$
 I[n] = A \cdot E[n]
@@ -190,22 +190,22 @@ in which $$\beta$$, $$A_m$$, $$\omega_m$$ are tunable parameters for Wah-Wah.
 
 TB sets the pulse parameters and trigger pulse generation by asserting `start`.
 
-The pulse generator module generates I and Q samples in a continuous stream, asserts `busy` when generating samples, and asserts `out_last` when the last sample of the current pulse is at the output.
+The pulse generator module generates $$I[n]$$ and $$Q[n]$$ samples in a continuous stream, asserts `busy` when generating samples, and asserts `out_last` when the last sample of the current pulse is at the output.
 
 The pulse generator would refuse to generate samples if the pulse parameters are erroneous: pulse sample length must be at least 2, `mu` (Gaussian mean) must not be smaller than the sample length, the sigma square inverse term must not be zero, and Wah-Wah frequency term must not be zero when Wah-Wah is turned on.
 
 TB collects the generated samples and checks them against golden values, calculated using SystemVerilog's system functions `$exp()` and `$cos()`. TB also checks if DUT refuses to generate under erroneous pulse parameters.
 
-Finally, TB exports all DUT-agenerated samples into a single JSON file. A script `plot_pulses.py` visualizes those samples.
+Finally, TB exports all DUT-generated samples into a single JSON file. A script `plot_pulses.py` visualizes those samples.
 
 ### Design
 
 The following numerical methods and formats are used:
 
 - For the Gaussian envelope, $$\exp(-x)$$ is computed with a lookup table (LUT) with 11-bit address. All arithmetic for the Gaussian datapath is performed in UQ0.15 format (unsigned, 16 bits wide, with 15 fractional bits).
-- The Wah-Wah cosine term $$\cos(\omega_m (n-\mu))$$ is also produced by a LUT with 11-bit address. The cosine datapath accepts the modulation frequency in UQ0.16 (unsigned, 16 bits, 16 fractional) and outputs in SQ1.15 format (signed, 16 bits, 1 integer + 15 fractional). The Wah-Wah modulation amplitude $$A_m$$ uses SQ0.15 format (signed, 16 bits, 15 fractional).
-- The Q(t) samples of DRAG is computed with a symmetric first-order finite difference: $$D[n] = (E[n+1] - E[n-1])/2$$, where E[n] is the envelope term of the I(t) component. Forward/backward differences are used for samples at the boundaries. All envelope and difference values are kept in UQ1.15 (unsigned, 16 bits, 1 integer + 15 fractional) or a signed extension (e.g., Q2.15 for differences).
-- All LUT outputs are interpolated linearly between adjacent address entries to improve accuracy at the input's fractional address.
+- The Wah-Wah cosine term $$\cos(\omega_m (n-\mu))$$ is also produced by a LUT with 11-bit address. The cosine datapath takes the modulation frequency $$\omega_m$$ in UQ0.16 (unsigned, 16 bits, 16 fractional) and generates cosine values in SQ1.15 format (signed, 16 bits, 1 integer + 15 fractional). The Wah-Wah modulation amplitude $$A_m$$ uses SQ0.15 format (signed, 16 bits, 15 fractional).
+- The $$Q[n]$$ samples are computed with a symmetric first-order finite difference: $$D[n] = (E[n+1] - E[n-1])/2$$, where $$E[n]$$ is the envelope term of the $$I[n]$$ component. Forward/backward differences are used for samples at the boundaries. All envelope and difference values are kept in UQ1.15 (unsigned, 16 bits, 1 integer + 15 fractional) or a signed extension (e.g., Q2.15 for differences).
+- All LUT outputs are produced from linear interpolation between adjacent address entries to improve accuracy at the input's fractional address.
 
 ### CLI commands
 
@@ -251,7 +251,7 @@ PASS: All tests completed (protocol + invalid + DRAG math).
 - Verilator: cpu 0.037 s on 1 threads; alloced 0 MB
 ```
 
-TB validates all I samples are within 1 LSB error tolerance, and all Q samples are within 2 LSB error tolerance.
+TB validates all $$I[n]$$ samples are within 1 LSB error tolerance, and all $$Q[n]$$ samples are within 2 LSB error tolerance.
 
 ### Plots
 
