@@ -54,6 +54,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[The Effective Executive](https://www.goodreads.com/en/book/show/48019.The_Effective_Executive){:target="_blank"}: The Definitive Guide to Getting the Right Things Done* - Peter Drucker.
 - *[Death by Meeting](https://www.goodreads.com/book/show/49040.Death_by_Meeting){:target="_blank"}* - Patrick Lencioni.
 - *[Boundaries](https://www.goodreads.com/book/show/944267.Boundaries){:target="_blank"}* - Henry Cloud and John Townsend.
+- *[The Interpretation of Financial Statements](https://www.goodreads.com/book/show/190445.The_Interpretation_of_Financial_Statements){:target="_blank"}* - Benjamin Graham, Spencer B. Meredith.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
