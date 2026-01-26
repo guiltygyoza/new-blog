@@ -56,7 +56,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Boundaries](https://www.goodreads.com/book/show/944267.Boundaries){:target="_blank"}* - Henry Cloud and John Townsend.
 - *[The Interpretation of Financial Statements](https://www.goodreads.com/book/show/190445.The_Interpretation_of_Financial_Statements){:target="_blank"}* - Benjamin Graham, Spencer B. Meredith.
 - *[Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one){:target="_blank"}: Notes on Startups, or How to Build the Future* - Peter Thiel and Blake Masters.
-
+- *[Elon Musk](https://www.goodreads.com/book/show/25541028-elon-musk){:target="_blank"}: Tesla, SpaceX, and the Quest for a Fantastic Future* - Ashlee Vance.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
