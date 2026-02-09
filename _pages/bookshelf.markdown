@@ -58,6 +58,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one){:target="_blank"}: Notes on Startups, or How to Build the Future* - Peter Thiel and Blake Masters.
 - *[Elon Musk](https://www.goodreads.com/book/show/25541028-elon-musk){:target="_blank"}: Tesla, SpaceX, and the Quest for a Fantastic Future* - Ashlee Vance.
 - *[Confidence Game](https://www.goodreads.com/book/show/8103503-confidence-game){:target="_blank"}* - Christine Richard.
+- *[The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within){:target="_blank"}* - Matt Mochary.
 
 ### Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
