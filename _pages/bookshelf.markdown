@@ -6,9 +6,7 @@ permalink: /bookshelf/
 
 These books brought notable influences on my thinking in the recent years.
 
-## Non-fiction
-
-### 2026
+## 2026
 - *[The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within){:target="_blank"}* - Matt Mochary.
 - *[Confidence Game](https://www.goodreads.com/book/show/8103503-confidence-game){:target="_blank"}* - Christine Richard.
 - *[Elon Musk](https://www.goodreads.com/book/show/25541028-elon-musk){:target="_blank"}: Tesla, SpaceX, and the Quest for a Fantastic Future* - Ashlee Vance.
@@ -17,7 +15,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[Boundaries](https://www.goodreads.com/book/show/944267.Boundaries){:target="_blank"}* - Henry Cloud and John Townsend.
 - *[Death by Meeting](https://www.goodreads.com/book/show/49040.Death_by_Meeting){:target="_blank"}* - Patrick Lencioni.
 
-### 2025
+## 2025
 - *[The Effective Executive](https://www.goodreads.com/en/book/show/48019.The_Effective_Executive){:target="_blank"}: The Definitive Guide to Getting the Right Things Done* - Peter Drucker.
 - *[The Most Important Thing](https://www.goodreads.com/book/show/10454418-the-most-important-thing){:target="_blank"}: Uncommon Sense for the Thoughtful Investor* - Howard Marks.
 - *[Quantum Computing](https://www.goodreads.com/book/show/55668470-quantum-computing-wired-guides){:target="_blank"} (WIRED guides): How It Works and How It Could Change the World* - Amit Katwala, Wired.
@@ -64,7 +62,7 @@ These books brought notable influences on my thinking in the recent years.
 - *[The Technological Republic](https://www.goodreads.com/book/show/213618136-the-technological-republic){:target="_blank"}: Hard Power, Soft Belief, and the Future of the West* - Alex Karp.
 - *[The Tragic Mind](https://www.goodreads.com/book/show/60747416-the-tragic-mind){:target="_blank"}: Fear, Fate, and the Burden of Power* - Robert Kaplan.
 
-### Fiction
+## Fiction
 - *[Foundation](https://www.goodreads.com/book/show/29579.Foundation){:target="_blank"}* - Isaac Asimov.
 - *[Foundation and Empire](https://www.goodreads.com/book/show/29581.Foundation_and_Empire){:target="_blank"}* - Isaac Asimov.
 - *[Second Foundation](https://www.goodreads.com/book/show/29580.Second_Foundation){:target="_blank"}* - Isaac Asimov.
