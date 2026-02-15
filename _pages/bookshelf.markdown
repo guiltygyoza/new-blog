@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[Never Split the Difference](https://www.goodreads.com/book/show/123857637-never-split-the-difference){:target="_blank"}* - Chris Voss.
 - *[The Great CEO Within](https://www.goodreads.com/book/show/48691943-the-great-ceo-within){:target="_blank"}* - Matt Mochary.
 - *[Confidence Game](https://www.goodreads.com/book/show/8103503-confidence-game){:target="_blank"}* - Christine Richard.
 - *[Elon Musk](https://www.goodreads.com/book/show/25541028-elon-musk){:target="_blank"}: Tesla, SpaceX, and the Quest for a Fantastic Future* - Ashlee Vance.
