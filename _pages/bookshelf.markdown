@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[When Genius Failed](https://www.goodreads.com/book/show/10669.When_Genius_Failed){:target="_blank"}* - Roger Lowenstein.
 - *[The Use of Knowledge in Society](https://en.wikipedia.org/wiki/The_Use_of_Knowledge_in_Society){:target="_blank"}* - Friedrich Hayek.
 - *[海耶克](https://www.eslite.com/product/1001116712682238689004){:target="_blank"}* - 吳惠林.
 - *[Never Split the Difference](https://www.goodreads.com/book/show/123857637-never-split-the-difference){:target="_blank"}* - Chris Voss.
