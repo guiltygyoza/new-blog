@@ -10,7 +10,7 @@ published: true
 
 <img src="/assets/dunning-kruger-curve.png" style="display:block;margin:0 auto;width:80%;"/>
 
-Above is a simple illustration of the curve. Stage 1 and 2 are marked as red because they are particularly dangerous stages, where overcommitments can be made unconsciously. Stage 2 is the peak of stupidity. Stage 3 and 4 are marked blue because they are characterized by low spirits and the "unwinding of positions" in identity, social relations, financial even. Stage 4 marks the bottom of the valley of despair. Stage 5 and onward marks the grounded growth in confidence.
+Above is a simple illustration of the curve. Stage 1 and 2 are marked red because they are characterized by passion and a proclivity to overextend. Stage 2 is the peak of stupidity. Stage 3 and 4 are marked blue because they are characterized by low spirits and the "unwinding of positions" in identity, social relations, financial even. Stage 4 marks the bottom of the valley of despair. Stage 5 and onward marks the grounded growth in confidence.
 
 Here are some of the factors that can slow down or prevent a person from moving past stage 1-4. The underlying ideas are (1) the confidence in stage 1 & 2 is sort of a fake, unreliable kind (2) confidence must drop for one to grow competence during stage 3 & 4.
 
