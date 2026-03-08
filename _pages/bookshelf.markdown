@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[洛克斐勒 (Rockefeller)](https://www.books.com.tw/products/0010964042){:target="_blank"}* - 吳惠林.
 - *[The Road to Serfdom](https://www.goodreads.com/sk/book/show/299215.The_Road_to_Serfdom){:target="_blank"}* - Friedrich Hayek.
 - *[寇斯 (Coase)](https://www.eslite.com/product/1001116712587705){:target="_blank"}* - 吳惠林.
 - *[When Genius Failed](https://www.goodreads.com/book/show/10669.When_Genius_Failed){:target="_blank"}* - Roger Lowenstein.
