@@ -15,13 +15,23 @@
 }
 
 // Font families
-@mixin ff--sans-serif($font-weight: normal) {
-    font-family: 'noto-serif', 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
+@mixin ff--heading($font-weight: 700) {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: $font-weight;
+}
+
+@mixin ff--body($font-weight: 400) {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-weight: $font-weight;
+}
+
+@mixin ff--meta($font-weight: 400) {
+    font-family: 'Source Serif 4', Georgia, serif;
     font-weight: $font-weight;
 }
 
 @mixin ff--code {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'JetBrains Mono', monospace;
 }
 
 // Font sizing
@@ -51,18 +61,18 @@
 }
 
 @mixin fs--body {
-    line-height: 1.6;
+    line-height: 1.8;
     font-size: 1.6rem;
 }
 
 @mixin fs--meta {
     line-height: 1;
-    font-size: 1.3rem; // 18px
+    font-size: 1.3rem;
 }
 
 @mixin fs--caption {
     line-height: 1;
-    font-size: 1.2rem; // 16px
+    font-size: 1.2rem;
 }
 
 @mixin fs--code {

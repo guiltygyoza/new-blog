@@ -1,22 +1,16 @@
 /* ==========================================================================
-   Variabeles
+   Variables
    ========================================================================== */
 
-// Colors via http://ethanschoonover.com/solarized
-$c-base__03: #0D2B35;
-$c-base__02: #163541;
-$c-base__01: #5C6E74;
-$c-base__00: #697B82;
-$c-base__0: #869395;
-$c-base__1: #96A0A0;
-$c-base__2: #EDE7D6;
-$c-base__3: #FCF5E4;
+// Academic Journal Palette
+$c-bg: #FAFAF7;           // 微暖米白背景
+$c-heading: #1A1A1A;       // 標題 — 接近純黑
+$c-body: #3D3D3D;          // 內文 — 深灰
+$c-meta: #8C8C8C;          // 次要資訊 — 中灰
+$c-link: #8B0000;          // 連結 — 暗紅
+$c-link-hover: #B22222;    // 連結 hover
+$c-border: #D4D0C8;        // 分隔線 — 暖灰
+$c-strong: #2C2C2C;        // 強調 — 近黑
 
-$c-accent__blue: #0067FB;
-$c-accent__green: #8BE367;
-
-// Breakpoints
-$bp__sm: 45rem; // 450px
-
-// Misc
-$m-border: 1px solid $c-base__2;
+$bp__sm: 45rem;
+$m-border: 1px solid $c-border;
