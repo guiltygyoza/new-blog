@@ -28,42 +28,53 @@
 }
 
 .c-article__title {
+    @include ff--heading;
     @include fs--heading-1;
-    color: $c-base__02;
+    color: $c-heading;
 }
 
 .c-article__time {
+    @include ff--meta;
     @include fs--body;
-    color: $c-base__01;
+    color: $c-meta;
+    font-variant: small-caps;
+    letter-spacing: 0.05em;
 }
 
 .c-article__main {
+    position: relative;
     margin-bottom: 5rem; // 50px
+    @include ff--body(400);
     @include fs--body;
-    color: $c-base__01;
+    color: $c-body;
 
     > * {
-        margin-bottom: 1.8rem; // 18px
+        margin-bottom: 2rem;
     }
 
+
     h2 {
+        @include ff--heading;
         @include fs--heading-2;
     }
 
     h3 {
+        @include ff--heading;
         @include fs--heading-3;
     }
 
     h4 {
+        @include ff--heading;
         @include fs--heading-4;
     }
 
     h5 {
+        @include ff--body;
         @include fs--body;
     }
 
     strong {
-        color: $c-base__02;
+        color: $c-strong;
         font-weight: 600;
     }
 
@@ -71,7 +82,8 @@
         margin-left: 0;
         margin-right: 0;
         padding-left: 1.8rem; // 18px
-        border-left: 1px solid #EFF1F3;
+        border-left: 2px solid $c-link;
+        font-style: italic;
     }
 
     ul,
@@ -79,13 +91,103 @@
         margin-left: 2.1rem;
     }
 
-    // Inline code styling (Notion-style)
+    // Inline code styling
     code:not(pre code) {
-        background-color: #F7F6F3;
+        background-color: #F5F3EF;
         border-radius: 3px;
         padding: 0.2em 0.4em;
         font-size: 0.9em;
-        color: #EB5757;
+        color: $c-link;
+    }
+
+    // abbr small-caps
+    abbr {
+        font-variant: small-caps;
+        letter-spacing: 0.05em;
+        text-decoration: none;
+    }
+
+    // Sidenote (Marginalia — Tufte style)
+    .sidenote {
+        // Desktop: float to right margin
+        @media screen and (min-width: 1100px) {
+            position: absolute;
+            right: -220px;
+            width: 180px;
+            margin-top: 0;
+            margin-bottom: 0;
+            @include ff--meta(400);
+            font-size: 1.2rem;
+            line-height: 1.5;
+            color: $c-meta;
+        }
+        // Narrow screens: degrade to grey small paragraph
+        @media screen and (max-width: 1099px) {
+            @include ff--meta(400);
+            font-size: 1.3rem;
+            line-height: 1.5;
+            color: $c-meta;
+            padding-left: 1.8rem;
+            border-left: 1px solid $c-border;
+        }
+    }
+
+    // Pull Quote
+    .pull-quote {
+        margin: 3rem 0;
+        padding: 2rem 0;
+        border-top: 1px solid $c-heading;
+        border-bottom: 1px solid $c-heading;
+        border-left: none;
+        text-align: center;
+        font-style: normal;
+
+        p {
+            @include ff--heading(400);
+            font-style: italic;
+            font-size: 2.2rem;
+            line-height: 1.5;
+            color: $c-heading;
+            margin-bottom: 0;
+        }
+    }
+
+    // Footnote inline superscript
+    sup {
+        a.footnote {
+            color: $c-link;
+            font-weight: 600;
+            text-decoration: none;
+            font-size: 0.75em;
+            &:hover { color: $c-link-hover; }
+        }
+    }
+
+    // Footnotes section at end of article
+    .footnotes {
+        margin-top: 4rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid $c-border;
+        max-width: 50%;
+
+        ol {
+            margin-left: 1.5rem;
+            li {
+                @include ff--body(400);
+                font-size: 1.1rem;
+                line-height: 1.6;
+                color: $c-meta;
+                margin-bottom: 0.8rem;
+
+                p { margin-bottom: 0; font-size: 1.1rem; }
+            }
+        }
+
+        a.reversefootnote {
+            color: $c-link;
+            text-decoration: none;
+            &:hover { color: $c-link-hover; }
+        }
     }
 
 }
