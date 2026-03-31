@@ -12,11 +12,13 @@
     h1 {
         margin-bottom: 2.5rem; // 25px
         @include fs--heading-2;
-        color: $c-base__02;
+        color: $c-heading;
     }
 
     p {
+        font-family: 'Noto Serif', Georgia, serif;
         @include fs--meta;
+        color: $c-meta;
     }
 }
 
@@ -38,7 +40,8 @@
         -ms-flex-align: center;
             align-items: center;
     p {
+        @include ff--meta;
         @include fs--body;
-        color: $c-base__01;
+        color: $c-meta;
     }
 }

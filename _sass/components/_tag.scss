@@ -7,10 +7,10 @@
     position: relative;
     white-space: nowrap;
     @include fs--body;
-    color: $c-base__02;
+    color: $c-heading;
 
     &:before {
-        color: $c-base__0;
+        color: $c-meta;
         content: '#\2009';
     }
 }
