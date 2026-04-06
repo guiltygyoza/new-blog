@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[Founder](https://www.goodreads.com/book/show/596149.Founder){:target="_blank"}* - Amos Elon.
 - *[Buffett](https://www.goodreads.com/book/show/1155.Buffett){:target="_blank"}* - Roger Lowenstein.
 - *[Poor Charlie's Almanack](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack){:target="_blank"}* - Charles Munger and Peter Kaufman.
 - *[洛克斐勒 (Rockefeller)](https://www.books.com.tw/products/0010964042){:target="_blank"}* - 吳惠林.
