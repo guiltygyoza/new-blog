@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[The Innovator's Dilemma](https://www.goodreads.com/book/show/26160019-the-innovator-s-dilemma){:target="_blank"}* - Clayton Christensen.
 - *[The Lily](https://www.goodreads.com/book/show/16044254-the-lily){:target="_blank"}* - Daniel Cloud.
 - *[Founder](https://www.goodreads.com/book/show/596149.Founder){:target="_blank"}* - Amos Elon.
 - *[Buffett](https://www.goodreads.com/book/show/1155.Buffett){:target="_blank"}* - Roger Lowenstein.
