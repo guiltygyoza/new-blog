@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[Positioning](https://www.goodreads.com/en/book/show/760025.Positioning){:target="_blank"}* - Al Ries and Jack Trout.
 - *[Arnold](https://www.goodreads.com/en/book/show/115759.Arnold){:target="_blank"}* - Arnold Schwarzenegger.
 - *[The Disruption Dilemma](https://www.goodreads.com/book/show/27310508-the-disruption-dilemma){:target="_blank"}* - Joshua Gans.
 - *[How to Win at the Sport of Business](https://www.goodreads.com/book/show/13344951-how-to-win-at-the-sport-of-business){:target="_blank"}* - Mark Cuban.
