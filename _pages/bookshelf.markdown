@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[Eat That Frog!](https://www.goodreads.com/book/show/95887.Eat_That_Frog_21_Great_Ways_to_Stop_Procrastinating_and_Get_More_Done_in_Less_Time){:target="_blank"}* - Brian Tracy.
 - *[Positioning](https://www.goodreads.com/en/book/show/760025.Positioning){:target="_blank"}* - Al Ries and Jack Trout.
 - *[Arnold](https://www.goodreads.com/en/book/show/115759.Arnold){:target="_blank"}* - Arnold Schwarzenegger.
 - *[The Disruption Dilemma](https://www.goodreads.com/book/show/27310508-the-disruption-dilemma){:target="_blank"}* - Joshua Gans.
