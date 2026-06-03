@@ -7,7 +7,8 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
-- *[Living Like Weasels](https://www.sfuadcnf.com/wp-content/uploads/2015/10/Annie-Dillards-essay.pdf){:target="_blank"}* - Annie Dillard
+- *[The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money){:target="_blank"}* - Morgan Housel.
+- *[Living Like Weasels](https://www.sfuadcnf.com/wp-content/uploads/2015/10/Annie-Dillards-essay.pdf){:target="_blank"}* - Annie Dillard.
 - *[Wanting](https://www.goodreads.com/book/show/54860444-wanting){:target="_blank"}* - Luke Burgis.
 - *[Eat That Frog!](https://www.goodreads.com/book/show/95887.Eat_That_Frog_21_Great_Ways_to_Stop_Procrastinating_and_Get_More_Done_in_Less_Time){:target="_blank"}* - Brian Tracy.
 - *[Positioning](https://www.goodreads.com/en/book/show/760025.Positioning){:target="_blank"}* - Al Ries and Jack Trout.
