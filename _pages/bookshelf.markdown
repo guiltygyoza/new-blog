@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[Boundaries for Your Soul](https://www.goodreads.com/en/book/show/36575949-boundaries-for-your-soul){:target="_blank"}* - Alison Cook and Kimberly June Miller.
 - *[The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money){:target="_blank"}* - Morgan Housel.
 - *[Living Like Weasels](https://www.sfuadcnf.com/wp-content/uploads/2015/10/Annie-Dillards-essay.pdf){:target="_blank"}* - Annie Dillard.
 - *[Wanting](https://www.goodreads.com/book/show/54860444-wanting){:target="_blank"}* - Luke Burgis.
