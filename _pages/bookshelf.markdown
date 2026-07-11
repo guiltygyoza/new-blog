@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[The Knack](https://www.goodreads.com/en/book/show/4891811-the-knack){:target="_blank"}* - Norm Brodsky and Bo Burlingham.
 - *[Boundaries for Your Soul](https://www.goodreads.com/en/book/show/36575949-boundaries-for-your-soul){:target="_blank"}* - Alison Cook and Kimberly June Miller.
 - *[The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money){:target="_blank"}* - Morgan Housel.
 - *[Living Like Weasels](https://www.sfuadcnf.com/wp-content/uploads/2015/10/Annie-Dillards-essay.pdf){:target="_blank"}* - Annie Dillard.
