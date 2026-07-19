@@ -94,3 +94,4 @@ These books brought notable influences on my thinking in the recent years.
 - *[Death's End](https://www.goodreads.com/book/show/25451264-death-s-end){:target="_blank"}* - Liu Cixin.
 - *[There Is No Antimemetics Division](https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division){:target="_blank"}* - qntm.
 - *[Ra](https://www.goodreads.com/book/show/57891607-ra){:target="_blank"}* - qntm.
+- *[半澤直樹 3](https://www.eslite.com/product/1001125622824695){:target="_blank"}* - 池井戶潤.
