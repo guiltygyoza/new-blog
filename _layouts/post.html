@@ -6,7 +6,10 @@ layout: page
       MathJax = {
         tex: {
           inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          macros: {
+            ket: ['\\lvert #1 \\rangle', 1]
+          }
         }
       };
     </script>
@@ -17,7 +20,11 @@ layout: page
         <p class="c-article__time"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
     </header>
     <div class="c-article__main">
-        {{ content }}
+        {% if page.open_links_in_new_tab %}
+          {{ content | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' }}
+        {% else %}
+          {{ content }}
+        {% endif %}
     </div>
     <footer class="c-article__footer">
         <p>
