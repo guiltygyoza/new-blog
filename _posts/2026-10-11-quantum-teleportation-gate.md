@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Quantum Teleportation Gate"
-date:   2026-10-12 00:00:00 +0800
+date:   2026-10-11 00:00:00 +0800
 categories: ideas
 published: true
 open_links_in_new_tab: true
 ---
 
-*Originally published by [Parity](https://parity.fund/quantum-teleportation-gate/) on October 12, 2026. Republished here by the author with permission.*
+*Originally published by [Parity](https://parity.fund/quantum-teleportation-gate/) on October 11, 2026. Republished here by the author with permission.*
 
 ## 1. Causal Locality & Cellular Automata
 
