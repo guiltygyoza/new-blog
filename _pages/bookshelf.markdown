@@ -7,6 +7,7 @@ permalink: /bookshelf/
 These books brought notable influences on my thinking in the recent years.
 
 ## 2026
+- *[太陽與鐵](https://www.eslite.com/product/10072302132682770443003){:target="_blank"}* - 三島由紀夫.
 - *[代表的日本人](https://www.books.com.tw/products/0010781277){:target="_blank"}* - 內村鑑三, 陳心慧(譯).
 - *[The Knack](https://www.goodreads.com/en/book/show/4891811-the-knack){:target="_blank"}* - Norm Brodsky and Bo Burlingham.
 - *[Boundaries for Your Soul](https://www.goodreads.com/en/book/show/36575949-boundaries-for-your-soul){:target="_blank"}* - Alison Cook and Kimberly June Miller.
